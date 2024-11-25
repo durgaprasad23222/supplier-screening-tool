@@ -11,7 +11,11 @@
   },
   "dependencies": {
     "@mantine/core": "7.14.1",
+    "@mantine/dropzone": "^7.14.1",
     "@mantine/hooks": "7.14.1",
+    "@tabler/icons-react": "^3.22.0",
+    "cors": "^2.8.5",
+    "express": "^4.21.1",
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
   },
@@ -21,6 +25,7 @@
     "@typescript-eslint/eslint-plugin": "^7.13.1",
     "@typescript-eslint/parser": "^7.13.1",
     "@vitejs/plugin-react": "^4.3.1",
+    "concurrently": "^9.1.0",
     "eslint": "^8.57.0",
     "eslint-plugin-react-hooks": "^4.6.2",
     "eslint-plugin-react-refresh": "^0.4.7",
